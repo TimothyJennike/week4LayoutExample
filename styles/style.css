@@ -15,15 +15,15 @@
 
 #left {
     background-color: lightcoral;
-    width: 400px;
-    /*min-height: 100vh;*/
+    max-width: 400px;
+    min-height: 100vh;
     float: left;
 }
 
 #right {
     background-color:lightgreen;
-    width: 400px;
-    /*min-height: 100vh;*/
+    max-width: 400px;
+    min-height: 100vh;
     float: right;
 
 }
